@@ -11,7 +11,7 @@ import VehicleOwner from '../../components/feature/VehicleOwner';
 const ScreenContainer = ({property}) => {
 
     return (
-        <Router>
+
           <div className="row">
             <aside className="col-sm-2">
                 <div>
@@ -32,7 +32,7 @@ const ScreenContainer = ({property}) => {
               </div>
             </aside>
           </div>
-        </Router>
+        
     );
 };
 
