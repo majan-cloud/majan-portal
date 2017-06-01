@@ -1,0 +1,48 @@
+.logoContainer {
+  padding: 5px;
+  text-align: center; }
+
+.navbar {
+  margin-bottom: 0px;
+  padding: 10px 5px; }
+
+.navbar-inverse .navbar-nav > li {
+  color: #fdb300;
+  padding: 2px 20px;
+  text-align: center; }
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #bbb;
+  padding: 2px 20px; }
+
+.navbar img {
+  width: 60%;
+  height: 60%; }
+
+.navbar-login {
+  width: 305px;
+  padding: 10px;
+  padding-bottom: 0px;
+  color: #000000; }
+
+.navbar-login-session {
+  padding: 10px;
+  padding-bottom: 0px;
+  padding-top: 0px; }
+
+.icon-size {
+  font-size: 50px; }
+
+.features {
+  padding: 1em;
+  margin: 0.3em;
+  border: 1px darkblue dashed;
+  text-align: center; }
+
+.headerUser {
+  padding: 2px 20px; }
+
+.user {
+  padding: 1em;
+  margin: 0.3em;
+  border: 1px darkgreen dashed; }
